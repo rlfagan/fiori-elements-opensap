@@ -1,5 +1,6 @@
 # Welcome to the Developing and Extending SAP Fiori Elements Apps openSAP samples
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/fiori-elements-opensap)](https://api.reuse.software/info/github.com/SAP-samples/fiori-elements-opensap)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Ffiori-elements-opensap.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Ffiori-elements-opensap?ref=badge_shield)
 
 ## Description
 This repository offers **optional hands-on exercises** for the free openSAP Course **[Developing and Extending SAP Fiori Elements Apps](https://open.sap.com/courses/fiori-ea1)**.       
@@ -35,3 +36,6 @@ Find the various hands-on exercises for this week in folder **[week4](/week4/REA
 ## License
 Copyright (c) 2021 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
             
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Ffiori-elements-opensap.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Ffiori-elements-opensap?ref=badge_large)
